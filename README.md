@@ -1,4 +1,4 @@
-<img src="src/main/resources/icon.png" width="128">
+<img src="src/main/resources/icon.jpg" width="128">
 
 # Potassium
 
