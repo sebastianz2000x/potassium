@@ -4,7 +4,7 @@
 
 Potassium is a fork of Embeddium, which itself is a fork of Sodium.
 Potassium is specifically designed to improve performance on older and low-end PCs (especially 2010–2013 hardware), by using more aggressive defaults and optional “Old PC” rendering optimizations. 
-DEVELOPMENT will start next year probably in april
+PROJECT SUSPENDED(FOR NOW)
 ## Highlights
 
 * All performance improvements from Sodium 0.5.8 and earlier, i.e. a rewritten terrain renderer, various optimizations to the immediate-mode rendering pipeline (used by entities, GUIs, block entities, etc.), and other miscellaneous improvements
